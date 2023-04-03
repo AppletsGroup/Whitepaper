@@ -1,0 +1,1 @@
+a React template for starting a applet
